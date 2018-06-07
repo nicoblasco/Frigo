@@ -1,0 +1,33 @@
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\DAO\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\bin\Release\DAO.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\bin\Release\DAO.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\bin\Release\Model.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\bin\Release\Model.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\obj\Release\DAO.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\obj\Release\DAO.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\bin\Release\Ticket.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\bin\Release\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\bin\Release\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\bin\Release\Model.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\bin\Release\Ticket.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\bin\Release\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\obj\Release\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\obj\Release\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\bin\Release\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\bin\Release\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\bin\Release\Model.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\bin\Release\Ticket.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\bin\Release\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\obj\Release\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\obj\Release\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\bin\Release\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\bin\Release\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\bin\Release\Model.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\bin\Release\Ticket.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\bin\Release\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\obj\Release\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\obj\Release\DAO.pdb

@@ -1,0 +1,17 @@
+        const int COL_ID = 0;
+        const int COL_DESCRIPCION = 1;
+        const int COL_UNIDADES = 2;
+        const int COL_KILOS = 3;
+        const int COL_PRECIO_UNITARIO = 4;
+        const int COL_TOTAL = 5;
+
+
+
+INICIAL
+EN PREPARACION
+PEDIENTE DE ENTREGA
+ENTREGADO
+CANCELADO
+
+
+faltan los reportes

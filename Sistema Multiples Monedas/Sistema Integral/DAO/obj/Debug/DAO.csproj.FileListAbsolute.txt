@@ -1,0 +1,151 @@
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\DAO\bin\Debug\DAO.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\DAO\bin\Debug\DAO.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\DAO\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\DAO\bin\Debug\Model.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\DAO\obj\Debug\DAO.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\DAO\obj\Debug\DAO.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\bin\Debug\DAO.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\bin\Debug\DAO.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\bin\Debug\Model.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\obj\Debug\DAO.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\obj\Debug\DAO.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\bin\Debug\Model.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\DAO\bin\Debug\Ticket.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\bin\Debug\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\bin\Debug\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\bin\Debug\Model.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\bin\Debug\Ticket.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\bin\Debug\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\obj\Debug\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\DAO\obj\Debug\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\bin\Debug\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\bin\Debug\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\bin\Debug\Model.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\bin\Debug\Ticket.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\bin\Debug\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\obj\Debug\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\DAO\obj\Debug\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.pdb
+F:\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.dll
+F:\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.pdb
+F:\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.dll
+F:\Sistema Integral\Sistema Integral\DAO\bin\Debug\Ticket.dll
+F:\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.pdb
+F:\Sistema Integral\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+F:\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.dll
+F:\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.pdb

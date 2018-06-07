@@ -1,0 +1,1 @@
+INSERT INTO Diccionario (dd_parametro,cc_valor1) values ('IMPRESORA','NO')

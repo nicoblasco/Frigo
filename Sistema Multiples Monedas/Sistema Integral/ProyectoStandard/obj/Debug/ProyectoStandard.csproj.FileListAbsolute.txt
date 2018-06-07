@@ -1,0 +1,977 @@
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.Properties.Resources.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\ProyectoStandard.exe.config
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\ProyectoStandard.exe
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\ProyectoStandard.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\DAO.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\Model.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\DAO.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\Model.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\ProyectoStandard\Standard Bar.exe.config
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\ProyectoStandard\Standard Bar.exe
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Bar\Bar\ProyectoStandard\Standard Bar.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\Standard Bar.exe
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Debug\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\Standard Bar.exe.config
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.Properties.Resources.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\Model.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\Standard Bar.exe.config
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.Properties.Resources.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe.config
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.xml
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\office.xml
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe.config
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.exe
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.pdb
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.Properties.Resources.resources
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.pdb
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.dll
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\Model.dll
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.pdb
+F:\Sistema Integral\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe.config
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.exe
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.pdb
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.Properties.Resources.resources
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.pdb
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.dll
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.xml
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\user\Documents\Sistema Integral\Sistema Integral\ProyectoStandard\office.xml
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe.config
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.exe
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.Properties.Resources.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Standard Bar.exe.config
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.Properties.Resources.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.xml
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\office.xml
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Standard Bar.exe.config
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.exe
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.Properties.Resources.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Standard Bar.exe
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Standard Bar.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.xml
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\office.xml
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarMarca.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarRubro.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarProveedor.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe.config
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.exe
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarMarca.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarProveedor.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarRubro.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevoluciones.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.Properties.Resources.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevolucionesBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasCuentaCorriente.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe.config
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.exe
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarMarca.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarProveedor.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarRubro.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevoluciones.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevolucionesBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasCuentaCorriente.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.Properties.Resources.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportesPagos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarMarca.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarProveedor.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarRubro.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevoluciones.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevolucionesBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasCuentaCorriente.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportesPagos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe.config
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.exe
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Standard Bar.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarMarca.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarProveedor.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarRubro.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevoluciones.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevolucionesBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasCuentaCorriente.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportesPagos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.Properties.Resources.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.exe
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Standard Bar.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio2.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio3.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe.config
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio2.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio3.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\SIG.Properties.Resources.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.exe
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\Sistema de Gestion.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmConfiguracionPcCaja.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe.config
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.exe
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio2.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio3.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarMarca.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarProveedor.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarRubro.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmConfiguracionPcCaja.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevoluciones.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevolucionesBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasCuentaCorriente.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportesPagos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\SIG.Properties.Resources.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\Sistema de Gestion.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmMedioPago.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCajaReporte.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Productivo\Sistema Multiples Cajas\Sistema Integral\ProyectoStandard\obj\Debug\SIG.frmConfiguracionMoneda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe.config
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.exe
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio2.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio3.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarMarca.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarProveedor.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarRubro.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCajaReporte.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\SIG.frmConfiguracionMoneda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmConfiguracionPcCaja.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevoluciones.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevolucionesBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmMedioPago.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasCuentaCorriente.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportesPagos.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\SIG.Properties.Resources.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmMonedas.resources
+C:\Users\nblasco.SOFRECOM\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarDescripcionCorta.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe.config
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.exe
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarDescripcionCorta.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio2.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio3.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarMarca.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarProveedor.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarRubro.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCajaReporte.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\SIG.frmConfiguracionMoneda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmConfiguracionPcCaja.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevoluciones.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevolucionesBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmMedioPago.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmMonedas.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasCuentaCorriente.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportesPagos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\SIG.Properties.Resources.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarDescripcionLarga.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio1.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe.config
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.exe
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarDescripcionCorta.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarDescripcionLarga.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio1.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio2.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio3.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarMarca.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarProveedor.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarRubro.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCajaReporte.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\SIG.frmConfiguracionMoneda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmConfiguracionPcCaja.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevoluciones.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevolucionesBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmMedioPago.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmMonedas.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasCuentaCorriente.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportesPagos.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\SIG.Properties.Resources.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\Productivo\Ferreteria Miguel Gusty\Sistema Multiples Monedas\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteCtaCte.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe.config
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.exe
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\Sistema de Gestion.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulos.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarCodigo.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarDescripcionCorta.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarDescripcionLarga.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio1.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio2.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarListaPrecio3.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarMarca.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPorcentaje.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarProveedor.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarRubro.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosMasivo.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCierreCajaReporte.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClienteCtaCte.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmClientes.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmCompras.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\SIG.frmConfiguracionMoneda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmConfiguracionPcCaja.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactos.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevoluciones.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDevolucionesBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmDiccionario.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleados.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmImpresion.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmLogin.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmMedioPago.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmMonedas.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedores.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSubVenta.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmTelefonos.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuarios.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosPerfiles.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentas.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasCuentaCorriente.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmVentasReportesPagos.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\SIG.Properties.Resources.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmUsuariosCambiarContraseña.resources
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.cache
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\RdlCompile.compiled
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.exe
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Sistema de Gestion.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\DAO.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Microsoft.Office.Interop.Excel.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Model.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\office.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Microsoft.Vbe.Interop.dll
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\DAO.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\Model.pdb
+C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\ProyectoStandard\obj\Debug\ProyectoStandard.frmSeguimiento.resources

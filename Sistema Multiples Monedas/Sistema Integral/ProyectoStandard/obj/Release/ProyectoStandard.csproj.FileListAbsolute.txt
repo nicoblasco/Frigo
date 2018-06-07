@@ -1,0 +1,161 @@
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulos.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmClienteBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmClientes.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmContactos.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmContactosBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmDiccionario.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmEmpleados.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmProveedores.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmSubVenta.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmTelefonos.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmVentas.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmVentasBusqueda.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.mdiPrincipal.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.Properties.Resources.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\bin\Release\DAO.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\bin\Release\Model.dll
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\bin\Release\DAO.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\bin\Release\Model.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosReportes.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmReportes.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmVentasReportes.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\RdlCompile.cache
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\ProyectoStandard.frmImpresion.resources
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\bin\Release\Standard Bar.exe.config
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\bin\Release\Standard Bar.exe
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\bin\Release\Standard Bar.pdb
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\Standard Bar.exe
+C:\Documents and Settings\nblasco\Mis documentos\sistemas\Seguros\ProyectoStandard\ProyectoStandard\obj\Release\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\bin\Release\Standard Bar.exe.config
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\bin\Release\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\bin\Release\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\bin\Release\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\bin\Release\Model.dll
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\bin\Release\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\bin\Release\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulos.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmClientes.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmCompras.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmContactos.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmDiccionario.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmEmpleados.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmImpresion.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmProveedores.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmReportes.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmSubVenta.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmTelefonos.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmVentas.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.Properties.Resources.resources
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\RdlCompile.cache
+C:\Users\nblasco\Documents\sistemas\Bar\Bar\ProyectoStandard\obj\Release\RdlCompile.compiled
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\bin\Release\Standard Bar.exe.config
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\bin\Release\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\bin\Release\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\bin\Release\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\bin\Release\Model.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\bin\Release\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\bin\Release\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmClientes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmCompras.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmContactos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmDiccionario.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmEmpleados.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmImpresion.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmProveedores.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmSubVenta.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmTelefonos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmVentas.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.Properties.Resources.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\RdlCompile.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Bar\Bar\ProyectoStandard\obj\Release\RdlCompile.compiled
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\Standard Bar.exe.config
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\Standard Bar.exe
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\Standard Bar.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\DAO.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\Model.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\DAO.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\Model.pdb
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosDetalleVenta.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmCierreCaja.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmClienteBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmClientes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmCompras.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmComprasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmContactos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmContactosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmDiccionario.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmEmpleados.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmEmpleadosBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmImpresion.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmProveedores.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmProveedoresBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmSubVenta.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmTelefonos.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmVentas.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmVentasBusqueda.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmVentasReportes.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.mdiPrincipal.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.Properties.Resources.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.csproj.GenerateResource.Cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\RdlCompile.cache
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\RdlCompile.compiled
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosActualizarStock.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\office.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\bin\Release\office.xml
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosActualizarPrecio.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosActualizarUbicacion.resources
+C:\Users\nblasco\Documents\sistemas\Desarrollos Nicoblasco\Sistema Integral\Sistema Integral\ProyectoStandard\obj\Release\ProyectoStandard.frmArticulosBusquedaPorImagen.resources
