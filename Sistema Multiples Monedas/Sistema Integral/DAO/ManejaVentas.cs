@@ -829,6 +829,45 @@ namespace DAO
 
         }
 
+        public List<ReciboReporte> ReporteRecibo(Int32 intFacturaId)
+        {
+            ManejaDatosImpresion objManejaDatosImpresion = new ManejaDatosImpresion();
+            ManejaClientes objManejaClientes = new ManejaClientes();
+           // ReciboReporte objReciboReporte = new ReciboReporte();
+            List<ReciboReporte> list = new List<ReciboReporte>();
+            Ventas objVenta = new Ventas();
+            int i = 0;
+            objVenta = BuscarVentas(intFacturaId);
+            DatosImpresion  objDatosImpresion = objManejaDatosImpresion.BuscarDatosImpresion();
+            foreach (var item in objVenta.ListArticulosPorVenta )
+            {
+                i = 0;
+                ReciboReporte objReciboReporte = new ReciboReporte();
+                objReciboReporte.NroPedido= Convert.ToString( objVenta.IntCodigo);
+                objReciboReporte.FechaPedido = Convert.ToString( objVenta.DtFecha.Date);
+                objReciboReporte.HoraPedido = Convert.ToString(objVenta.DtFecha.Hour);
+                objReciboReporte.NombreEmpresa = objDatosImpresion.StrComercio;
+                objReciboReporte.DireccionEmpresa = objDatosImpresion.StrDireccion + " - " + objDatosImpresion.StrLocalidad + " " + objDatosImpresion.StrProvincia;
+                objReciboReporte.NombreCliente = objVenta.ObjCliente.StrApellido + " " + objVenta.ObjCliente.StrNombre;
+
+                foreach (var telefono in objVenta.ObjCliente.ListTelefonos )
+                {
+                    if (i==0)
+                        objReciboReporte.TelefonosCliente = telefono.StrTel;
+                    else
+                        objReciboReporte.TelefonosCliente += " - " + telefono.StrTel;
+                    i++;
+                }
+                //Falta joinear la localidad id con su descripcion
+                objReciboReporte.DomicilioCliente = objVenta.ObjCliente.StrDirecccion + " ";
+                //objReciboReporte.SaldoAnterior= Convert.ToString(objManejaClientes.CalcularDeudaCliente(objReciboReporte.Venta.ObjCliente.IntCodigo));
+                list.Add(objReciboReporte);
+            }
+
+
+
+            return list;
+        }
 
         public List<VentasReporte> ReporteDeCantidadTotalesDeArticulos(DataTable dt)
         {

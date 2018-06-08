@@ -819,8 +819,11 @@ namespace ProyectoStandard
             objVentas.DoSubtotal = Redondeo(Convert.ToDecimal(txtTotalEF.Text));
             objVentas.DoTotal = 0;
 
-
+            if (String.IsNullOrEmpty(txtPago.Text))
+                txtPago.Text = "0";
             objVentas.DoPago = Redondeo(Convert.ToDecimal(txtPago.Text.Replace('.', ',')));
+            if (String.IsNullOrEmpty(txtDebe.Text))
+                txtDebe.Text = "0";
             objVentas.DoDebe = Redondeo(Convert.ToDecimal(txtDebe.Text));
 
             //Tengo que actualizar el objeto por con los cambios de la grilla
@@ -1570,10 +1573,30 @@ namespace ProyectoStandard
             if (result == System.Windows.Forms.DialogResult.No)
                 return;
 
-            Imprimir();
+           // Imprimir(); //Este imprime Ticket
+            Reporte(); //Este imprime un Reporte 
 
         }
 
+        private void Reporte()
+        {
+            ManejaVentas objManejaVentas = new ManejaVentas();
+            frmReportes objfrmReporte;
+            objfrmReporte = new frmReportes("ReporteRecibo.rdlc", objManejaVentas.ReporteRecibo(objVentas.IntCodigo) , "ReciboReporte");
+            objfrmReporte.Show();
+        }
+
+        private DataTable ArmoSql()
+        {
+            string strSql;
+
+            strSql = "select a.id,idextra,a.descripcion, fechaalta, rubro, marca, stock,costo, precioefectivo, preciotarjeta, razonsocial,stockminimo, ubicacion, ganancia, preciolista2, preciolista3, m.descripcion as moneda, unidaddeventa ";
+            strSql += " from dbo.Articulos a LEFT OUTER JOIN dbo.Proveedores  P  ON a.proveedor = P.id, Monedas m where a.fechabaja is null and isnull(a.monedaid,1) = m.monedaid ";
+
+            LlenaCombos objLlenaCombos = new LlenaCombos();
+            DataTable dt = objLlenaCombos.GetSqlDataAdapterbySql(strSql);
+            return dt;
+        }
 
         private void Imprimir()
         {

@@ -149,3 +149,11 @@ C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Siste
 C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.dll
 C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.pdb
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\DAO.dll
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\DAO.pdb
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Model.dll
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Ticket.dll
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\DAO\bin\Debug\Model.pdb
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.dll
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\DAO\obj\Debug\DAO.pdb

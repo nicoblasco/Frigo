@@ -648,6 +648,7 @@
     <None Include="Properties\DataSources\Model.ArticulosReporteGral.datasource" />
     <None Include="Properties\DataSources\Model.Compras.datasource" />
     <None Include="Properties\DataSources\Model.ComprasReporte.datasource" />
+    <None Include="Properties\DataSources\Model.ReciboReporte.datasource" />
     <None Include="Properties\DataSources\Model.VentasReporte.datasource" />
     <None Include="Properties\DataSources\Model.VentasReportePago.datasource" />
     <None Include="Properties\DataSources\Model.Ventas_Pagos.datasource" />

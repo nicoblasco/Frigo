@@ -69,9 +69,9 @@
             this.gridBuscarArticulos.AllowUserToAddRows = false;
             this.gridBuscarArticulos.AllowUserToDeleteRows = false;
             this.gridBuscarArticulos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.gridBuscarArticulos.Location = new System.Drawing.Point(26, 264);
+            this.gridBuscarArticulos.Location = new System.Drawing.Point(26, 235);
             this.gridBuscarArticulos.Name = "gridBuscarArticulos";
-            this.gridBuscarArticulos.Size = new System.Drawing.Size(1143, 410);
+            this.gridBuscarArticulos.Size = new System.Drawing.Size(1143, 439);
             this.gridBuscarArticulos.TabIndex = 11;
             this.gridBuscarArticulos.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridBuscarArticulos_CellDoubleClick);
             // 
@@ -106,7 +106,7 @@
             this.grBusqueda.Controls.Add(this.txtCodigo);
             this.grBusqueda.Controls.Add(this.label3);
             this.grBusqueda.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
-            this.grBusqueda.Location = new System.Drawing.Point(26, 34);
+            this.grBusqueda.Location = new System.Drawing.Point(26, 5);
             this.grBusqueda.Name = "grBusqueda";
             this.grBusqueda.Size = new System.Drawing.Size(1143, 224);
             this.grBusqueda.TabIndex = 10;
@@ -191,6 +191,7 @@
             this.CkStockMinimo.TabIndex = 121;
             this.CkStockMinimo.Text = "Con Stock Minimo";
             this.CkStockMinimo.UseVisualStyleBackColor = true;
+            this.CkStockMinimo.Visible = false;
             // 
             // cboStock
             // 
@@ -204,6 +205,7 @@
             this.cboStock.Name = "cboStock";
             this.cboStock.Size = new System.Drawing.Size(61, 24);
             this.cboStock.TabIndex = 118;
+            this.cboStock.Visible = false;
             // 
             // txtStock
             // 
@@ -211,6 +213,7 @@
             this.txtStock.Name = "txtStock";
             this.txtStock.Size = new System.Drawing.Size(112, 22);
             this.txtStock.TabIndex = 119;
+            this.txtStock.Visible = false;
             this.txtStock.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtStock_KeyPress);
             // 
             // label6
@@ -221,6 +224,7 @@
             this.label6.Size = new System.Drawing.Size(47, 16);
             this.label6.TabIndex = 120;
             this.label6.Text = "Stock";
+            this.label6.Visible = false;
             // 
             // cboUbicacion
             // 

@@ -176,10 +176,13 @@ namespace ProyectoStandard
                     gridBuscarClientes[4, i].Value = dt.Rows[i]["empleado"].ToString();
                     gridBuscarClientes[5, i].Value = dt.Rows[i]["cliente"].ToString();
                     gridBuscarClientes[6, i].Value = Convert.ToString(Redondeo( Convert.ToDecimal( dt.Rows[i]["total"].ToString())));
-                    if (dt.Rows[i]["estado"].ToString()=="CUMPLIDA")                    
-                        gridBuscarClientes.Rows[i].DefaultCellStyle.BackColor = System.Drawing.Color.GreenYellow;
-                    if (dt.Rows[i]["estado"].ToString() == "PENDIENTE")
+
+                    if (dt.Rows[i]["estado"].ToString() == "EN PREPARACION")
                         gridBuscarClientes.Rows[i].DefaultCellStyle.BackColor = System.Drawing.Color.Yellow;
+                    if (dt.Rows[i]["estado"].ToString() == "PEDIENTE DE ENTREGA")
+                        gridBuscarClientes.Rows[i].DefaultCellStyle.BackColor = System.Drawing.Color.Orange;
+                    if (dt.Rows[i]["estado"].ToString() == "ENTREGADO")
+                        gridBuscarClientes.Rows[i].DefaultCellStyle.BackColor = System.Drawing.Color.GreenYellow;
                     if (dt.Rows[i]["estado"].ToString() == "CANCELADA")
                         gridBuscarClientes.Rows[i].DefaultCellStyle.BackColor = System.Drawing.Color.Red;
                 }

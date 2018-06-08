@@ -69,6 +69,7 @@
     <Compile Include="Perfiles.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Proveedores.cs" />
+    <Compile Include="ReciboReporte.cs" />
     <Compile Include="Seguimiento.cs" />
     <Compile Include="SubVentaACtaCte.cs" />
     <Compile Include="SubVentaCheque.cs" />

@@ -132,3 +132,10 @@ C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Siste
 C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\Model\obj\Debug\Model.dll
 C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\Model\obj\Debug\Model.pdb
 C:\Users\nicoblasco\Documents\Sistemas\En Desarrollo\Frigorifico El latigo\Sistema Multiples Monedas\Sistema Integral\Model\bin\Debug\DAO.pdb
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\Model\bin\Debug\Model.dll
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\Model\bin\Debug\Model.pdb
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\Model\bin\Debug\DAO.dll
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\Model\obj\Debug\Model.dll
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\Model\obj\Debug\Model.pdb
+C:\bkp\Documents\Backup\nicolas blasco\usuario\Documents\sistemas\Desarrollos Nicoblasco\Desarrollo\Frigo-master\Sistema Multiples Monedas\Sistema Integral\Model\bin\Debug\DAO.pdb

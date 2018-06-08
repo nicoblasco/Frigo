@@ -30,6 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmArticulos));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.cboUnidadDeVenta = new System.Windows.Forms.ComboBox();
+            this.label18 = new System.Windows.Forms.Label();
             this.txtDescripcionCorta = new System.Windows.Forms.TextBox();
             this.label17 = new System.Windows.Forms.Label();
             this.cboMoneda = new System.Windows.Forms.ComboBox();
@@ -75,8 +77,6 @@
             this.btnExaminar = new System.Windows.Forms.Button();
             this.pbImagen = new System.Windows.Forms.PictureBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.cboUnidadDeVenta = new System.Windows.Forms.ComboBox();
-            this.label18 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbImagen)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -132,6 +132,29 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos Comerciales";
+            // 
+            // cboUnidadDeVenta
+            // 
+            this.cboUnidadDeVenta.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cboUnidadDeVenta.FormattingEnabled = true;
+            this.cboUnidadDeVenta.Items.AddRange(new object[] {
+            "Kilo",
+            "Unidad"});
+            this.cboUnidadDeVenta.Location = new System.Drawing.Point(279, 282);
+            this.cboUnidadDeVenta.Name = "cboUnidadDeVenta";
+            this.cboUnidadDeVenta.Size = new System.Drawing.Size(85, 24);
+            this.cboUnidadDeVenta.TabIndex = 17;
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.label18.Location = new System.Drawing.Point(184, 288);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(89, 14);
+            this.label18.TabIndex = 59;
+            this.label18.Text = "Unidad Venta";
             // 
             // txtDescripcionCorta
             // 
@@ -190,7 +213,7 @@
             this.txtPrecioLista3.Location = new System.Drawing.Point(97, 341);
             this.txtPrecioLista3.Name = "txtPrecioLista3";
             this.txtPrecioLista3.Size = new System.Drawing.Size(85, 23);
-            this.txtPrecioLista3.TabIndex = 18;
+            this.txtPrecioLista3.TabIndex = 19;
             // 
             // label15
             // 
@@ -207,7 +230,7 @@
             this.txtPrecioLista2.Location = new System.Drawing.Point(97, 312);
             this.txtPrecioLista2.Name = "txtPrecioLista2";
             this.txtPrecioLista2.Size = new System.Drawing.Size(85, 23);
-            this.txtPrecioLista2.TabIndex = 17;
+            this.txtPrecioLista2.TabIndex = 18;
             // 
             // label14
             // 
@@ -365,6 +388,7 @@
             this.txtStockMinimo.Name = "txtStockMinimo";
             this.txtStockMinimo.Size = new System.Drawing.Size(85, 23);
             this.txtStockMinimo.TabIndex = 12;
+            this.txtStockMinimo.Visible = false;
             this.txtStockMinimo.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtStock_KeyPress);
             // 
             // label7
@@ -376,6 +400,7 @@
             this.label7.Size = new System.Drawing.Size(72, 14);
             this.label7.TabIndex = 16;
             this.label7.Text = "Stock Min.";
+            this.label7.Visible = false;
             // 
             // txtStock
             // 
@@ -383,6 +408,7 @@
             this.txtStock.Name = "txtStock";
             this.txtStock.Size = new System.Drawing.Size(85, 23);
             this.txtStock.TabIndex = 11;
+            this.txtStock.Visible = false;
             this.txtStock.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtStock_KeyPress);
             // 
             // label6
@@ -394,6 +420,7 @@
             this.label6.Size = new System.Drawing.Size(42, 14);
             this.label6.TabIndex = 14;
             this.label6.Text = "Stock";
+            this.label6.Visible = false;
             // 
             // txtUbicacion
             // 
@@ -572,29 +599,6 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Imagen";
             this.groupBox2.Visible = false;
-            // 
-            // cboUnidadDeVenta
-            // 
-            this.cboUnidadDeVenta.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cboUnidadDeVenta.FormattingEnabled = true;
-            this.cboUnidadDeVenta.Items.AddRange(new object[] {
-            "Kilo",
-            "Unidad"});
-            this.cboUnidadDeVenta.Location = new System.Drawing.Point(279, 282);
-            this.cboUnidadDeVenta.Name = "cboUnidadDeVenta";
-            this.cboUnidadDeVenta.Size = new System.Drawing.Size(85, 24);
-            this.cboUnidadDeVenta.TabIndex = 58;
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.label18.Location = new System.Drawing.Point(184, 288);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(89, 14);
-            this.label18.TabIndex = 59;
-            this.label18.Text = "Unidad Venta";
             // 
             // frmArticulos
             // 
